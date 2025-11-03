@@ -366,7 +366,7 @@ GEM
       actionview (>= 7.0.0)
       activesupport (>= 7.0.0)
     jmespath (1.6.2)
-    json (2.15.0)
+    json (2.15.2)
     jsonapi-rspec (0.0.11)
       rspec-core
       rspec-expectations
@@ -509,7 +509,7 @@ GEM
     pp (0.6.2)
       prettyprint
     prettyprint (0.2.0)
-    prism (1.5.1)
+    prism (1.6.0)
     protocol-hpack (1.5.1)
     protocol-http (0.54.0)
     protocol-http1 (0.35.1)
@@ -626,7 +626,7 @@ GEM
     rspec-support (3.13.6)
     rspec_junit_formatter (0.6.0)
       rspec-core (>= 2, < 4, != 2.12.0)
-    rubocop (1.81.1)
+    rubocop (1.81.6)
       json (~> 2.3)
       language_server-protocol (~> 3.17.0.2)
       lint_roller (~> 1.1.0)
@@ -1013,7 +1013,7 @@ DEPENDENCIES
   rails (~> 8.0.0)
   rails-controller-testing
   redis (>= 4.0.1)
-  rubocop (~> 1.23)
+  rubocop (~> 1.81)
   rubocop-performance
   rubocop-rails
   ruby-lsp
