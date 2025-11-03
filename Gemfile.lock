@@ -366,7 +366,7 @@ GEM
       actionview (>= 7.0.0)
       activesupport (>= 7.0.0)
     jmespath (1.6.2)
-    json (2.15.0)
+    json (2.15.2)
     jsonapi-rspec (0.0.11)
       rspec-core
       rspec-expectations
@@ -509,7 +509,7 @@ GEM
     pp (0.6.2)
       prettyprint
     prettyprint (0.2.0)
-    prism (1.5.1)
+    prism (1.6.0)
     protocol-hpack (1.5.1)
     protocol-http (0.54.0)
     protocol-http1 (0.35.1)
@@ -640,10 +640,10 @@ GEM
     rubocop-ast (1.47.1)
       parser (>= 3.3.7.2)
       prism (~> 1.4)
-    rubocop-performance (1.26.0)
+    rubocop-performance (1.26.1)
       lint_roller (~> 1.1)
       rubocop (>= 1.75.0, < 2.0)
-      rubocop-ast (>= 1.44.0, < 2.0)
+      rubocop-ast (>= 1.47.1, < 2.0)
     rubocop-rails (2.33.4)
       activesupport (>= 4.2.0)
       lint_roller (~> 1.1)
